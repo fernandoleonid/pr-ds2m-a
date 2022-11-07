@@ -1,0 +1,39 @@
+body{
+
+    background-color: rgb(25,25,25);
+    width: 100vw;
+    box-sizing: border-box;
+    margin: o;
+    padding: o;
+}
+
+header{
+
+    background-color:rgb(140, 0, 0);
+     text-align: center;
+     font-size: 3.5rem;
+
+
+}
+
+main{
+
+    
+}
+.gato{
+    padding-left: 20%;
+    grid-area: gato;
+}
+.imagem{
+    grid-area: mulher;
+   /* padding-right: 50%; */
+}
+
+main{
+
+    display: grid;
+    grid-template-areas: "gato mulher";
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+
+}
