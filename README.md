@@ -1,6 +1,7 @@
 # Pull request - DS1M-A
 
 ## Lista de alunos:
+* Guilherme de Oliveira Lima
 * Genivania Macedo Oliveira
 * guilherme-rufino
 * Giovanna dos Santos Rodrigues
