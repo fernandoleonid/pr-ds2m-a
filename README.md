@@ -2,3 +2,5 @@
 
 ## Lista de alunos:
 * Moreno César Santos Santiago
+* Caio Palermo Lemos
+* Camila Pinheiro
