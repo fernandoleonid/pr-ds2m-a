@@ -1,6 +1,7 @@
 # Pull request - DS1M-A
 
 ## Lista de alunos:
+* Genivania Macedo Oliveira
 * guilherme-rufino
 * Giovanna dos Santos Rodrigues
 * Gustavo Prevelate Ribeiro Da Silva
