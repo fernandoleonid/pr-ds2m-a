@@ -2,3 +2,4 @@
 
 ## Lista de alunos:
 * Caio Palermo Lemos
+* Camila Pinheiro
