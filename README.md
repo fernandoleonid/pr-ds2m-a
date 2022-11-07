@@ -1,3 +1,5 @@
 # Pull request - DS1M-A
 
-## Lista de alunos:X
+## Lista de alunos:
+- Camila Pinheiro
+
