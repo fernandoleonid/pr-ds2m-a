@@ -10,3 +10,4 @@
 * Moreno César Santos Santiago
 * Caio Palermo Lemos
 * Camila Pinheiro
+* Ingryd Shirlley
