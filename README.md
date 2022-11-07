@@ -1,5 +1,5 @@
 # Pull request - DS1M-A
 
 ## Lista de alunos:
-- Camila Pinheiro
-
+* Caio Palermo Lemos
+* Camila Pinheiro
