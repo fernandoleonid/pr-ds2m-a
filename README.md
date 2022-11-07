@@ -1,6 +1,7 @@
 # Pull request - DS1M-A
 
 ## Lista de alunos:
+* Giovanna dos Santos Rodrigues
 * Gustavo Prevelate Ribeiro Da Silva
 * Cleiton dos Santos Cruz
 * Clara Martins Oliveira
