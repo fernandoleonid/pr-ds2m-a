@@ -1,6 +1,7 @@
 # Pull request - DS1M-A
 
 ## Lista de alunos:
+* Cleiton dos Santos Cruz
 * Clara Martins Oliveira
 * Layla Giovanna Furtado da Silva
 * Ítalo Reis Rosa da Silva
